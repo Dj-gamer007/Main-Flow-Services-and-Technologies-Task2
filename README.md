@@ -1,7 +1,4 @@
 # Main-Flow-Services-and-Technologies-Task2
-Great! Now that you've uploaded your Task 2 Jupyter Notebook file, let's create a README file for your GitHub repository. This README will provide a clear and concise overview of your project, describe its purpose, and give instructions on how to use the code. Here’s a template tailored to your internship task involving data analysis with the Pandas library:
-
-
 
 # Python Developer Internship - Task 2: Sample Data Manipulation with Pandas
 
