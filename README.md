@@ -80,20 +80,7 @@ Here are some key features and functions implemented in this task:
 
 This task has significantly improved my understanding of data manipulation and analysis using Pandas. It has equipped me with practical skills to handle data more effectively and prepared me for more advanced data analysis tasks.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 I would like to thank **Main Flow Services and Technologies** for providing me with this learning opportunity and guiding me through this data analysis task.
-
----
-
-### Example Requirements File (`requirements.txt`)
-
-Here's a sample `requirements.txt` file listing the packages needed to run your notebook:
-
-numpy
-pandas
-jupyter
