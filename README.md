@@ -1,6 +1,6 @@
 # Main-Flow-Services-and-Technologies-Task2
 
-# Python Developer Internship - Task 2: Sample Data Manipulation with Pandas
+# Task 2: Sample Data Manipulation with Pandas
 
 ## Overview
 
